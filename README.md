@@ -2,6 +2,7 @@
 
 ** Author: Serena Nguyen **
 Course: INF133, Winter 2025
+> Demo: https://youtu.be/V_N4TG7BjPw 
 
 ## Overview
 Built an Alexa Skill using AWS Lambda and the Alexa Skills Kit (ASK) that responds to natural language queries about local time and converts between global time zones. Simulated user interactions using the Alexa Developer Console and tested dynamic intent handling via sample utterances. Utilized the spacetime and spacetime-informal NPM packages to parse and format temporal data. Developed and deployed in a serverless environment with custom skill intents and slot resolution.
