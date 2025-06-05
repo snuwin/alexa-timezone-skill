@@ -1,6 +1,6 @@
 # alexa-timezone-skill
 
-** Author: Serena Nguyen **
+ Author: Serena Nguyen 
 Course: INF133, Winter 2025
 > Demo: https://youtu.be/V_N4TG7BjPw 
 
